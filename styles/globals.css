@@ -76,6 +76,8 @@
     src: local('Poppins Black'), url('../public/fonts/Poppins-Black.woff') format('woff');
     }
     
-
+html{
+    font-family: Poppins;
+}
   
 
